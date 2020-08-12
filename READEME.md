@@ -1,0 +1,2 @@
+#run
+parcel index.html
